@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+  <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/init" android:gravity="center_vertical" android:padding="10dip" android:textSize="10pt" android:id="@+id/btnInit" /> 
+  <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/exit" android:gravity="center_vertical" android:padding="10dip" android:textSize="10pt" android:id="@+id/btnExit" />
+  <ImageView
+  	android:id="@+id/ivImageview"
+  	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+  >  
+  </ImageView> 
+  <ListView
+  	android:id="@+id/lvInfoview"
+  	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+  >  
+  </ListView>  
+</LinearLayout>

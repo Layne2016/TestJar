@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Hello World, IdentityCardTest!</string> 
+  <string name="app_name">蓝牙读卡演示程序V2.0</string> 
+  <string name="init">建立连接并信息监听</string> 
+  <string name="getdata">获取身份证信息</string> 
+  <string name="regist">取机具编号</string> 
+  <string name="exit">退出</string>
+</resources>
